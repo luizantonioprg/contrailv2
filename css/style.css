@@ -76,7 +76,7 @@ a {
   color:#74b72a;
 }
  .hero3 {
-  height: 30vh;
+  height: 40vh;
   width: 100%;
   background-image:url("../novoBG.jpg");
   background-position: center;
@@ -84,7 +84,6 @@ a {
   background-size: cover;
   position: relative;
   background-attachment: fixed;
-
  }
   .hero4 {
   height: 40vh;
@@ -118,7 +117,7 @@ a {
 /*  opacity:0.5;#007749*/
  }
   .hero7{
- height: 40vh;
+ height: 30vh;
   width: 100%;
   background-image:url("../novo_solucoes.png");
   background-position: center ;
