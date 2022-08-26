@@ -88,9 +88,9 @@ a {
  }
   .hero4 {
   height: 40vh;
-  width: 100%;
+  width: 100vw;
   background-image:url("../another.png");
-  background-position: -30% 100% ;
+  background-position: 100% 100% ;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
