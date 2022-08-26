@@ -529,8 +529,8 @@ video {
 /*LOSANGO*/
 .flip-card {
   background-color: transparent;
-  width: 200px;
-  height: 200px;
+  width: 250px;
+  height: 250px;
   perspective: 1000px;
   rotate:45deg;
 }
@@ -578,15 +578,13 @@ background: transparent;
 rotate:-45deg;
 margin-top:50px;
 margin-left:-20px;
-
-text-center;
 width:100%;
 position:absolute;
 }
 
 .text-verso{
 rotate:-45deg;
-margin-top:50px;
+/*margin-top:50px;*/
 /*margin-left:-20px;*/
 text-align: left;
 width:100%;
