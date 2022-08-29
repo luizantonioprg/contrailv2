@@ -129,12 +129,13 @@ a {
   position: relative;
  }
  .hero8{
+   border:solid 2px red;
   height: 100vh;
   width: 100vw;
   background-image:url("../mapa_maior.png");
   background-position:100% 100%;
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   position: relative;
  }
 #navio{
