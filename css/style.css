@@ -129,7 +129,9 @@ a {
   position: relative;
  }
  .hero8{
+   overflow:scroll;
    border:solid 2px red;
+   background-origin: content-box;
   height: 100vh;
   width: 100vw;
   background-image:url("../mapa_maior.png");
