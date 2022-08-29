@@ -129,7 +129,7 @@ a {
   position: relative;
  }
  .hero8{
-   background-origin: content-box;
+  background-clip: content-box;
     background-size: cover;
     height: 100%;
     width: 100%;
