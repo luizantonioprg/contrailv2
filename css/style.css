@@ -129,7 +129,8 @@ a {
   position: relative;
  }
  .hero8{
-   overflow:scroll;
+  padding-top:5vh;
+   padding-bottom:5vh;
    border:solid 2px red;
    background-origin: content-box;
   height: 100vh;
