@@ -91,7 +91,7 @@ a {
   .hero4 {
   height: 40vh;
   width: 100vw;
-  background-image:url("https://raw.githubusercontent.com/luizantonioprg/contrailv2/main/onde_estamos_bg2.png");
+  background-image:url(https://raw.githubusercontent.com/luizantonioprg/contrailv2/main/onde_estamos_bg2.png);
   background-position: 80% 10% ;
   background-repeat: no-repeat;
   background-size: cover;
