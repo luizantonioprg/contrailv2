@@ -129,9 +129,10 @@ a {
   position: relative;
  }
  .hero8{
+   border:solid 2px red;
   background-clip: content-box;
     background-size: cover;
-    height: 100%;
+    height: 100vh;
     width: 100%;
   background-image:url("../mapa_maior.png");
   background-position:center;
